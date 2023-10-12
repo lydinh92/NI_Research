@@ -2,7 +2,7 @@ Repository for NI Research Project: Center Membership and Interdisciplinary Coll
 
 This repository contains data files for network analysis and Generalized Linear Mixed Effects Regression (GLMER) analysis. The data files are organized as follows:
 
-## 1. Edge List for Network Analysis
+## 1. Edgelist for Network Analysis
 
 - **NI_Paper-Author_edgelist.csv**: This CSV file contains the edgelist data for network analysis. This is a two-mode network whereby paper is a source node, and author of a paper is a target node. This dataset is an input for our network analysis notebook, **NI_Experiment_nb.ipynb**.
 
